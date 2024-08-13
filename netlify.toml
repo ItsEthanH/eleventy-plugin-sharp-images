@@ -8,6 +8,6 @@ package = "netlify-plugin-cache"
 
   [plugins.inputs]
   paths = [
-    "public/assets/logos", # Processed Images
+    "public/assets/images", # Processed Images
     ".cache" # Remote Assets
   ]
